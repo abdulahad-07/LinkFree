@@ -5,12 +5,12 @@
 }
 "links": [
     {
-      "Vishal Prakash": "Follow me on Twitter",
+      "name": "Follow me on Twitter",
       "url": "https://twitter.com/prakashvishal93",
       "icon": "FaTwitter"
     },
     {
-      "Vishal Prakash": "Follow me on Instagram",
+      "name": "Follow me on Instagram",
       "url": "https://www.instagram.com/prakashvishal93/",
       "icon": "FaInstagram"
     }
